@@ -1,1 +1,1 @@
-# java-mini-project
+MiniRPG is a RPG game made using java
