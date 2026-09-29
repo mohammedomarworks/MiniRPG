@@ -88,7 +88,6 @@ public class Main {
             System.out.println(player.getName() + " defeated "
                     + enemy.getName() + "!");
         }
-        System.out.println("Game Over!");
         scanner.close();
     }
 }
